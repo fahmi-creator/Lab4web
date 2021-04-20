@@ -278,4 +278,17 @@ tambahkan pada css.html
 ```
 hasilnya
 ![1111](https://user-images.githubusercontent.com/56380765/115448289-bcdc6100-a243-11eb-9bcb-13fa634b2dd0.png)
+# pertanyaan dan tugas
+# 1. tambahkan layout untuk menu about
+buat file html baru dengan nama about.html
+![222](https://user-images.githubusercontent.com/56380765/115450571-44c36a80-a246-11eb-9dd3-8e40dde94212.png)
 
+hasil nya
+![2221](https://user-images.githubusercontent.com/56380765/115450622-57d63a80-a246-11eb-994a-166e0ca8e7ba.png)
+
+# 2. tambahkan layout untuk menu contact
+buat file HTML baru dengan nama kontak.html dan buat form yang berisi email, message, DLL
+![333](https://user-images.githubusercontent.com/56380765/115450896-ad124c00-a246-11eb-9cbc-90b1588bf8f0.png)
+
+Hasil nya
+![3331](https://user-images.githubusercontent.com/56380765/115450955-bf8c8580-a246-11eb-9078-c55049f9489b.png)
